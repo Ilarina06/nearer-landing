@@ -31,7 +31,7 @@ const developers: IDeveloper[] = [
     {
         developerName: 'Alonzo Ramos',
         developerImageURL: '/assets/devs/alonzo.png',
-        developerDescription: 'I\'m a student from TUP currently taking BSIT. I like to draw and I play rhythm games such as maimai, Cytus, and Arcaea during my free time',
+        developerDescription: 'I\'m a student from TUP currently taking BSIT. I like to draw and I play rhythm games. I also know the basics of frontend designing',
         developerAreaOfInterest: 'Digital Artist',
         developerSocialLinks: {
             linkedin: 'https://www.linkedin.com/in/alonzo-ramos-b00726203/',
