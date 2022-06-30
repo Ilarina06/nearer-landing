@@ -7,13 +7,13 @@
     <div id="carouselExampleControls" class="carousel slide carousel-border" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active rounded-3" data-bs-interval="5000">
-                <img src="/assets/nearer1.png" class="d-block w-100 carousel-border" alt="...">
+                <img src="/assets/carousel1.PNG" class="d-block w-100 carousel-border" alt="...">
             </div>
             <div class="carousel-item rounded-3" data-bs-interval="5000">
-                <img src="/assets/nearer2.png" class="d-block w-100 carousel-border" alt="...">
+                <img src="/assets/carousel2.PNG" class="d-block w-100 carousel-border" alt="...">
             </div>
             <div class="carousel-item rounded-3" data-bs-interval="5000">
-                <img src="/assets/nearer3.png" class="d-block w-100 carousel-border" alt="...">
+                <img src="/assets/carousel3.PNG" class="d-block w-100 carousel-border" alt="...">
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
