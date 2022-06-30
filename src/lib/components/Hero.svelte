@@ -23,7 +23,7 @@
                         <p class="lead">
                             NearER mobile application is here to provide fast service with just pressing a simple circle. Patients should download this mobile application to start calling for help when needed.
                              <br><br>
-                            You can download this application by pressing the 'Download' button below.
+                            You can download this application by pressing the 'Download Now' button below.
                         </p>
                     </div>
                 </div>
