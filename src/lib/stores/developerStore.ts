@@ -43,7 +43,7 @@ const developers: IDeveloper[] = [
     {
         developerName: 'Julius Anthony Villa',
         developerImageURL: '/assets/devs/julius.png',
-        developerDescription: 'I\'m from Pamantasan ng Lungsod ng Valenzuela taking BSIT. I like to take Web Dev to learn how to develop my own website.',
+        developerDescription: 'I\'m from Technological University of the Philippines taking BSIT. I like to take Web Dev to learn how to develop my own website.',
         developerAreaOfInterest: 'Software Developer',
         developerSocialLinks: {
             linkedin: 'https://www.linkedin.com/in/julsvilla1208/',
