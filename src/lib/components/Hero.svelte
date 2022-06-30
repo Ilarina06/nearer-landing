@@ -21,7 +21,7 @@
                 <div class="lc-block mb-3">
                     <div editable="rich">
                         <p class="lead">
-                            NearER mobile application
+                            NearER mobile application is here to provide fast service with just pressing a simple circle. Patients should download this mobile application to start calling for help when needed. You can download this application by pressing the 'Download' button below.
                         </p>
                     </div>
                 </div>
