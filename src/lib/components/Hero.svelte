@@ -14,7 +14,7 @@
             <div class="col-lg-6">
                 <div class="lc-block mb-3">
                     <div editable="rich">
-                        <h2 class="fw-bold display-5">NearER App</h2>
+                        <h2 class="fw-bold display-5">NearER</h2>
                     </div>
                 </div>
 
