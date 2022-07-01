@@ -31,7 +31,7 @@ const developers: IDeveloper[] = [
     {
         developerName: 'Alonzo Ramos',
         developerImageURL: '/assets/devs/alonzo.png',
-        developerDescription: 'I\'m a student from TUP currently taking BSIT. I like to draw and I play rhythm games. I also know the basics of frontend designing',
+        developerDescription: 'I\'m a student from TUP currently taking BSIT. I like to draw and do creative things to enhance my skills and creativity. I also know the basics of frontend designing',
         developerAreaOfInterest: 'Digital Artist',
         developerSocialLinks: {
             linkedin: 'https://www.linkedin.com/in/alonzo-ramos-b00726203/',
@@ -43,8 +43,8 @@ const developers: IDeveloper[] = [
     {
         developerName: 'Julius Anthony Villa',
         developerImageURL: '/assets/devs/julius.png',
-        developerDescription: 'I\'m from Technological University of the Philippines taking BSIT. I like to take Web Dev to learn how to develop my own website.',
-        developerAreaOfInterest: 'Software Developer',
+        developerDescription: 'I\'m a student of Technological University of the Philippines taking BSIT. I am a full-stack web and mobile developer. I am also knowledgeable in graphic designing.',
+        developerAreaOfInterest: 'Software Engineer',
         developerSocialLinks: {
             linkedin: 'https://www.linkedin.com/in/julsvilla1208/',
             facebook: 'https://www.facebook.com/papa.jujubajuju',

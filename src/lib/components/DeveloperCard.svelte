@@ -28,6 +28,11 @@
                 </a>
             </li>
             <li class="list-inline-item">
+                <a href="{dev.developerSocialLinks.linkedin}" class="social-link">
+                    <img src="/assets/linkedin.png" width="30" alt="">
+                </a>
+            </li>
+            <li class="list-inline-item">
                 <a href="mailto:{dev.developerSocialLinks.email}" class="social-link">
                     <img src="/assets/mail.png" width="30" alt="">
                 </a>
