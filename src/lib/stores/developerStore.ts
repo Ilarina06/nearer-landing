@@ -6,7 +6,7 @@ const emptyDevelopers: IDeveloper[] = []
 const developers: IDeveloper[] = [
     {
         developerName: 'Christian Ascaño',
-        developerImageURL: '/assets/devs/asca.png',
+        developerImageURL: '/assets/devs/asca_new.jpg',
         developerDescription: 'As a student, I enjoy finding bugs in the works of my colleague and it helps me expand my knowledge about the functionality of different programs and languages',
         developerAreaOfInterest: 'Network Analyst',
         developerSocialLinks: {

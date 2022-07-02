@@ -14,9 +14,6 @@
                 <li class="nav-item">
                     <a class="nav-link active" href="/AboutUs">About Us</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link active" href="/ContactUs">Contact Us</a>
-                </li>
             </ul>
         </div>
     </div>
@@ -33,6 +30,10 @@
 
     a:hover {
         color: black;
+    }
+
+    navbar-toggler navbar-dark{
+        background-color: black;
     }
 
 
