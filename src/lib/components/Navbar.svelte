@@ -35,8 +35,5 @@
         color: black;
     }
 
-    navbar-toggler-icon {
-        color: black;
-    }
 
 </style>
