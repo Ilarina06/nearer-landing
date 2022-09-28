@@ -29,7 +29,7 @@
                 </div>
 
                 <div class="lc-block d-grid gap-2 d-md-flex justify-content-md-start">
-                <a class="btn btn-colored px-4 me-md-2" href="/assets/NearER-v1.0.19.apk" download="NearER-v1.0.19.apk" role="button">
+                <a class="btn btn-colored px-4 me-md-2" href="/assets/NearER-v1.2.0-1.apk" download="NearER-v1.2.0-1.apk" role="button">
                     Download Now
                 </a>
                 </div>
